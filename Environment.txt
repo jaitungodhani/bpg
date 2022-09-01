@@ -1,0 +1,11 @@
+set BPG_ENVIRONMENT=DEV
+set DJANGO_DEBUG=1
+set DJANGO_SECRET_KEY=abcd1234
+set DJANGO_STATIC_URL=/static/
+set DJANGO_STATIC_ROOT=static
+set WEBSITE_HOSTNAME=127.0.0.1
+
+
+
+ILE_Alternate_UserID_1 = FA|3c3c3c3c-3c3c-3c3c-3c3c-3c3c3c3c3c3c|aaaa|AAA Trucking|DEV|TRUE
+ILE_Alternate_UserID_2 = FA|4d4d4d4d-4d4d-4d4d-4d4d-4d4d4d4d4d4d|bbbb|BBB Trucking|DEV|TRUE
